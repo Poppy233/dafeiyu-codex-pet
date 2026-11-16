@@ -1,0 +1,20 @@
+{
+  "artwork_created": "2026-11-11",
+  "packaged": "2026-11-16",
+  "license": "CC-BY-NC-SA-4.0",
+  "source_project": "https://github.com/PC2005-cloud/dsh-pet",
+  "v2_source_sha256": "f17559ee71adf88841428952bcb70cb10a4fdc366af1be015a3bcb594c7d4199",
+  "v2_dimensions": [
+    1536,
+    2288
+  ],
+  "compatibility_dimensions": [
+    1536,
+    1872
+  ],
+  "cell_dimensions": [
+    192,
+    208
+  ],
+  "compatibility_conversion": "crop first nine rows; lossless WebP; no redrawing"
+}
